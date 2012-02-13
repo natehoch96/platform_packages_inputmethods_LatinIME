@@ -82,8 +82,8 @@
             <!-- Smiley key. -->
             <key-style
                 latin:styleName="returnKeyStyle"
-                latin:keyLabel=": )"
-                latin:keyOutputText=": ) "
+                latin:keyLabel=":]"
+                latin:keyOutputText=":] "
                 latin:keyLabelOption="hasPopupHint"
                 latin:moreKeys="@string/more_keys_for_smiley"
                 latin:maxMoreKeysColumn="5"
