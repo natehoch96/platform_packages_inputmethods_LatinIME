@@ -55,7 +55,7 @@
     <string name="keyhintlabel_for_punctuation"></string>
     <string name="keylabel_for_popular_domain">".com"</string>
     <!-- popular web domains for the locale - most popular, displayed on the keyboard -->
-    <string name="more_keys_for_popular_domain">".net,.org,.gov,.edu"</string>
+    <string name="more_keys_for_popular_domain">".net,.org,.gov,.si"</string>
     <string name="keylabel_for_symbols_1">1</string>
     <string name="keylabel_for_symbols_2">2</string>
     <string name="keylabel_for_symbols_3">3</string>
